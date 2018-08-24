@@ -9,4 +9,4 @@ This will be a place where functional programing ideas will live
 This help with easy composition of functions, allowing us to chain functions together.
 
 ## Book Notes
-See `README.md` for a list of books.
+See [Book Notes](packages/book-notes) for a list of books.
