@@ -2,14 +2,10 @@
 
 ## Functional Programing
 A place for functional programing.
-
-### Identity Functors
-[(category theory)](https://en.wikipedia.org/wiki/Category_theory)*A functor from a category to itself which maps each object of that category to itself and each morphism of that category to itself.*
-
-This help with easy composition of functions, allowing us to chain functions together.
+* [Identity Functors](packages/functional-programing/identity-functor)
 
 ## Algorithms
-A place for algorithms.
+* [Recursion](packages/algorithms/recursion)
 
 ## Book Notes
 See [Book Notes](packages/book-notes) for a list of books.
