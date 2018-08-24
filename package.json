@@ -1,0 +1,14 @@
+{
+	"scripts": {
+		"test": "jest"
+	},
+	"devDependencies": {
+		"jest": "^23.5.0",
+		"lerna": "^2.11.0"
+	},
+	"name": "learn-repo",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Braxton M. Christensen <braxton.christensen@gmail.com>",
+	"license": "MIT"
+}
