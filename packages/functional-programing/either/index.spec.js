@@ -1,4 +1,4 @@
-const { Right, Left } = require('./index');
+const { Right, Left, findColor } = require('./index');
 
 describe('Either', () => {
   describe('Right', () => {
@@ -30,4 +30,30 @@ describe('Either', () => {
       expect(result).toBe('error');
     })
   })
-})
+
+  describe('Examples', () => {
+
+    describe('findColor', () => {
+      it('should return hex value of color passed in', () => {
+        expect(findColor('red').fold(e => 'error', c => c)).toBe('#ff4444');
+        expect(findColor('yellow').fold(e => 'error', c => c)).toBe('#fff68f');
+      });
+
+      it('should allow coposition', () => {
+        expect(
+          findColor('red')
+            .map(c => c.slice(1))
+            .fold(e => 'no color', c => c.toUpperCase())
+        ).toBe('FF4444');
+      });
+
+      it('should handle colors not in the object', () => {
+        expect(
+          findColor('green')
+            .map(c => c.slice(1))
+            .fold(e => 'no color', c => c.toUppercase())
+      ).toBe('no color');
+      })
+    });
+  });
+});

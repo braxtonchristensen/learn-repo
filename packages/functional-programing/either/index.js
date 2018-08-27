@@ -1,4 +1,3 @@
-// const Either = Right || Left;
 
 const Right = x => ({
   map: f => Right(f(x)),
@@ -10,9 +9,18 @@ const Left = x => ({
   map: f => Left(x),
   fold: (f, g) => f(x),
   inspect: f => `Left(${x})`
-})
+});
+
+const Either = Right || Left;
+// Examples
+
+const findColor = (name) => {
+  const found = { red: '#ff4444', blue: '#3b5998', yellow: '#fff68f' }[name];
+  return found ? Right(found) : Left(null);
+}
 
 module.exports = {
   Right,
   Left,
+  findColor,
 }
