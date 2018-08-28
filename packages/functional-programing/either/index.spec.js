@@ -1,4 +1,4 @@
-const { Right, Left, findColor } = require('./index');
+const { Right, Left, findColor, getPort } = require('./index');
 
 describe('Either', () => {
   describe('Right', () => {
@@ -55,5 +55,17 @@ describe('Either', () => {
       ).toBe('no color');
       })
     });
+
+    describe('getPort', () => {
+      it('should return port 1337 from config file', () => {
+        const path =  './packages/functional-programing/either/config.json'
+        expect(getPort(path)).toBe(1337);
+      })
+      it('should return port 3000 if something bad happend', () => {
+        const path =  './packages/functional-programing/either/config.json'
+        expect(getPort()).toBe(3000);
+        expect(getPort('config.josn')).toBe(3000);
+      })
+    })
   });
 });
