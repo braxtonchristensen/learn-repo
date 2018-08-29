@@ -4,6 +4,7 @@
 A place for functional programing.
 * [Identity Functors](packages/functional-programing/identity-functor)
 * [Either](packages/functional-programing/either)
+* [Semi-Groups](packages/functional-programing/semi-groups)
 
 ## Algorithms
 * [Recursion](packages/algorithms/recursion)
