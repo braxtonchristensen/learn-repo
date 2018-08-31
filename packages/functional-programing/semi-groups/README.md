@@ -37,6 +37,25 @@ const res = All(true).concat(All(false));
 // output: All(false);
 ```
 here we can concat booleans to see if they are all true.
+all of this seems pretty contrive but we can do some good stuff
+with semigroups.
 
+#### Less Contrive
+We can use the semigroups to merge sets of data.
+Lets say I created 2 accounts and I want to merge them together
+if our data structure is entirely made up of semigroups it will be a semigroup itself
 
-
+```javascript
+  const acc1 = {
+    name: First('Braxton'),
+    isPaid: All(true),
+    points: Sum(2),
+    friends: ['Sydney'],
+  }
+  const acc2 = {
+    name: First('Braxton'),
+    isPaid: All(false),
+    points: Sum(10),
+    friends: ['Merrick'],
+  }
+```

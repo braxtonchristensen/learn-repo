@@ -16,7 +16,17 @@ const All = x => ({
     `All(${x})`
 });
 
+// First Semigroup
+const First = x => ({
+  x, // Here we just expose the value.
+  concat: _ =>
+    First(x),
+  inspect: () =>
+    `First(${x})`
+});
+
 module.exports = {
   Sum,
   All,
+  First,
 }
