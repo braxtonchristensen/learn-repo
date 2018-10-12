@@ -98,11 +98,11 @@ Ryan leaves us with a couple of tips to keep in mind when reading blogs:
 * Headlines are designed to get you to follow the link and view a page, headlines are likely going to be misleading and are often out to trick you.
 
 #### Further Reading
-Other reads by Ryan Holiday include **Ego is the Enemy** – a very complimentary continuation on from [**The Obstacle is the Way**](the-obstacle-is-the-way.md) that focuses on how when on the road to success, we mustn't let our ego's become a controlling factor in the way we act and make decisions. Also by Ryan, **Growth Hacker Marketing** is a great explanation about how exponential growth as seen from the likes of Dropbox, Instagram and Facebook is not down to luck and it hasn't come from traditional forms of marketing. Their rapid growth has been engineered from the beginning and despite being late entrants into their markets, these companies have succeeded using new age marketing techniques.
+Other reads by Ryan Holiday include [**Ego is the Enemy**](ego-is-the-enemy.md) – a very complimentary continuation on from [**The Obstacle is the Way**](the-obstacle-is-the-way.md) that focuses on how when on the road to success, we mustn't let our ego's become a controlling factor in the way we act and make decisions. Also by Ryan, **Growth Hacker Marketing** is a great explanation about how exponential growth as seen from the likes of Dropbox, Instagram and Facebook is not down to luck and it hasn't come from traditional forms of marketing. Their rapid growth has been engineered from the beginning and despite being late entrants into their markets, these companies have succeeded using new age marketing techniques.
 
 Robert Greene was one of the most influential people in Ryan Holiday’s life and his book **The 48 Laws of Power** outlines key steps to understanding how to use and enforce your power.
 
-Other great reads are The Thank-You Economy by Gary Vaynerchuck – an insight into the changing platform of marketing where Vaynerchuck emphasises the importance of social media in any business venture. And Inspired by Marty Cagan which details the process of creating a product, whether that be internet based or physical.
+Other great reads are **The Thank-You Economy** by Gary Vaynerchuck – an insight into the changing platform of marketing where Vaynerchuck emphasises the importance of social media in any business venture. And Inspired by Marty Cagan which details the process of creating a product, whether that be internet based or physical.
 
 #### Action Steps
 * When your reading articles online, try to remember the advice that Ryan has offered. Remember that fact checking is not a priority, and sometimes you could be reading completely fake information.
