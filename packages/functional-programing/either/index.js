@@ -28,7 +28,7 @@ const tryCatch = f => {
     return Left(e);
   }
 }
-// console.log(fs.readFileSync('config.json'));
+
 const getPort = (path) =>
   tryCatch(() => fs.readFileSync(path))
     .chain(c => tryCatch(() => JSON.parse(c)))

@@ -1,10 +1,7 @@
 # A Study Bible  [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
 
 ## Functional Programing
-A place for functional programing.
-* [Identity Functors](packages/functional-programing/identity-functor)
-* [Either](packages/functional-programing/either)
-* [Semi-Groups](packages/functional-programing/semi-groups)
+See [Functional Programing](packages/functional-programing) for a list of concepts.
 
 ## Algorithms
 * [Recursion](packages/algorithms/recursion)
