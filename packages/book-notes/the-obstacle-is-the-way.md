@@ -284,7 +284,7 @@ Ryan explains that the more obstacles you face and overcome, the more you develo
 * Acknowledge your own mortality so that you can live your best life.
 
 #### Further Reading
-Other reads by Ryan Holiday include **Ego is the Enemy** – a very complimentary continuation on from The Obstacle is the Way that focuses on how when on the road to success, we mustn't let our ego's become a controlling factor in the way we act and make decisions. Also by Ryan, **Trust Me I’m Lying** – is an eye-opening insight into how the modern media operates, the economy that drives it and how the system can be manipulated.
+Other reads by Ryan Holiday include **Ego is the Enemy** – a very complimentary continuation on from The Obstacle is the Way that focuses on how when on the road to success, we mustn't let our ego's become a controlling factor in the way we act and make decisions. Also by Ryan, [**Trust Me I’m Lying**](trust-me-im-lying.md) – is an eye-opening insight into how the modern media operates, the economy that drives it and how the system can be manipulated.
 
 Robert Greene was one of the most influential people in Ryan Holidays life and his book The **48 Laws of Power** outlines key steps to understanding how to use and enforce your power.
 
