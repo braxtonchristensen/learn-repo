@@ -7,3 +7,4 @@
 * [Clean Code](clean-code.md)
 * [How Children Learn](how-children-learn.md)
 * [How Children Succeed](how-children-succeed.md)
+* [The Obstacle is the Way](the-obstacle-is-the-way.md)
